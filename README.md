@@ -5,6 +5,6 @@
 - used checkpoints to stop training at appropriate epoch , to prevent overfitting
 - I tried and experimented with different models , for example : VGG16 , Inception V3 and Resnet50 and found that Inception V3 gives the best accuracy
 - Dataset size : 1200 Images
-- depolyed it on local machine using FLASK 
+- depolyed it using FLASK 
 
 
